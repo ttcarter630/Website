@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+    color: black;
+
+}
+
+h1{
+    color: coral;
+}
+
+li{
+    color: deeppink;
+}
+
+table{
+    color: red;
+}
+
+li{
+    list-style-type:circle;
+}
+
+hi{
+    text-decoration: underline;
+    
+}
+
+img{
+    border: thick solid black;
+}
+
+table{
+     border: thick solid red;
+}
+
+page{
+    border: thick solid brown;
+}
+
+ 
